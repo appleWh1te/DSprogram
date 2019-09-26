@@ -5,4 +5,5 @@ func main(){
 	fmt.Println("你好,world")
 	fmt.Ptintln("something wrong")
 	fmt.Println("branch test")
+	fmt.Println("master")
 }
