@@ -2,7 +2,7 @@ package hank
 import fmt
 
 func main(){
-	fmt.Println("你好,world")
+	fmt.Println("goland")
 	fmt.Ptintln("something wrong")
 	fmt.Println("hank")
 	fmt.Println("branch test")
